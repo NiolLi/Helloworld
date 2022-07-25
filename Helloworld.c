@@ -16,5 +16,6 @@ int main()
  printf("test 1 !");
  printf("test 2 !");
  printf("test 3 !");
+ printf("test 4 !");
  return 0;
 }

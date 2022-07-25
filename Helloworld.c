@@ -14,5 +14,6 @@ int main()
  printf("Hello, World 7!");
  
  printf("test 1 !");
+ printf("test 2 !");
  return 0;
 }
